@@ -1,5 +1,30 @@
 Latest
 ===============
+- Add support for document parameters in document plugin’s preconditions
+- Add support for new source types in aws:downloadContent plugin: HTTP(S) endpoints and private Git repositories
+- Add support for Session Manager configurable shell profile
+- Fix parsing of irregular inventory version strings
+- Fix error handling for windows wmi service
+- Fix to stop BillingInfo call for OnPremise systems
+- Fix to correct OS parsing map for openSUSE leap platform in configurePackage plugin
+- Fix to treat timed out docs in SuccessAndReboot state as failed
+
+3.0.161.0
+===============
+- Fix install scripts to report errors from package manager and enable retries
+
+3.0.151.0
+===============
+- First release of SSM Agent v3
+- Moved v2 amazon-ssm-agent to new ssm-agent-worker binary
+- New amazon-ssm-agent binary:
+  - Opt-in self update feature to upgrade if agent is running a deprecated version
+  - Telemetry feature to send important audit events to AWS. Opt-in send to customer CloudWatch
+  - Monitor and keep the ssm-agent-worker process running
+- Upgrade vendor dependencies and build to use go1.13
+
+2.3.1644.0
+===============
 - Enable aws:domainJoin SSM API for Linux
 - Sanitize platform name
 

@@ -25,8 +25,23 @@ Copyright (c) 2015 Nathan Osman
 Copyright (c) 2015 Loren Segal
 **shiena/ansicolor - https://github.com/shiena/ansicolor
 Copyright (c) [2014] [shiena]
+** go-ps; version v1.0.0 -- https://github.com/mitchellh/go-ps
+Copyright (c) 2014 Mitchell Hashimoto
+** go-winio; version v0.4.14 go-winio -- https://github.com/microsoft/go-winio
+Copyright (c) 2015 Microsoft
 **nightlyone/lockfile - https://github.com/nightlyone/lockfile
 Copyright (c) [2012] Ingo Oeser
+**jbenet/go-context - https://github.com/jbenet/go-context
+Copyright (c) 2014 Juan Batiz-Benet
+**kevinburke/ssh_config - https://github.com/kevinburke/ssh_config
+Copyright (c) 2017 Kevin Burke.
+Copyright (c) 2013 - 2017 Thomas Pelletier, Eric Anderton
+**mitchellh/go-homedir - https://github.com/mitchellh/go-homedir
+Copyright (c) 2013 Mitchell Hashimoto
+**sergi/go-diff - https://github.com/sergi/go-diff
+Copyright (c) 2012-2016 The go-diff Authors
+**emirpasic/gods (AVL Tree) - https://github.com/emirpasic/gods/tree/master/trees/avltree
+Copyright (c) 2017 Benjamin Scher Purcell <benjapurcell@gmail.com>
 
 MIT License
 
@@ -67,6 +82,18 @@ Copyright (c) 2013 The go-github AUTHORS. All rights reserved.
 Copyright (c) 2013 Google. All rights reserved.
 **pmezard/go-difflib - https://github.com/pmezard/go-difflib
 Copyright (c) 2013, Patrick Mezard
+**go-git/gcfg - https://github.com/go-git/gcfg
+Copyright (c) 2012 Péter Surányi. 
+Portions Copyright (c) 2009 The Go Authors
+**emirpasic/gods - https://github.com/emirpasic/gods
+Copyright (c) 2015, Emir Pasic
+**imdario/mergo - https://github.com/imdario/mergo
+Copyright (c) 2013 Dario Castañé
+Copyright (c) 2012 The Go Authors
+**golang/crypto - https://github.com/golang/crypto
+Copyright (c) 2009 The Go Authors
+**go-warnings/warnings - https://github.com/go-warnings/warnings
+Copyright (c) 2016 Péter Surányi
 
 BSD License
 
@@ -113,6 +140,8 @@ OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
 
 =============================
 
+** mangos; version v3.0.0 -- https://github.com/nanomsg/mangos
+Copyright 2020 The Mangos Authors
 ** coreos/go-semver - https://github.com/coreos/go-semver
 Copyright 2018 CoreOS, Inc
 ** go-ini/ini - https://github.com/go-ini/ini
@@ -123,6 +152,9 @@ Copyright 2011-2016 Canonical Ltd.
 Copyright 2015 James Saryerwinnie
 ** Workiva/go-datastructures - https://github.com/Workiva/go-datastructures
 ** gorhill/cronexpr - https://github.com/gorhill/cronexpr
+** go-git/go-git - https://github.com/go-git/go-git
+** go-git/go-billy - https://github.com/go-git/go-billy
+** xanzy/ssh-agent - https://github.com/xanzy/ssh-agent
 
 Apache License
 Version 2.0, January 2004
